@@ -1,0 +1,20 @@
+{
+    "name": "Game:bit",
+    "version": "0.0.10",
+    "description": "ELECFREAKS game:bit blocks",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "gamebit.cpp",
+        "gamebit.ts",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
